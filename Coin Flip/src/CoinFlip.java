@@ -11,6 +11,10 @@ public class CoinFlip {
 	}
 	public static void greetUser()
 	{
+		// Here is the comment you asked me to add. 
+		// How was your day Mr. Mcguire?
+		// I hope is was good. Personally, mine was good.
+		// Okay bye thanks for talking to me!
 		System.out.println("Hi what's your name?");
 		Scanner userInput = new Scanner(System.in);
 		String name= userInput.nextLine();
